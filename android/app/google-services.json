@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "776263851617",
+    "project_id": "ogs-chatapp",
+    "storage_bucket": "ogs-chatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776263851617:android:be1fbaea00672fbcb49420",
+        "android_client_info": {
+          "package_name": "com.example.ogchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776263851617-6tjodesnnkmlepvsasado39uh8o0mi88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY0maHkzYAULq8rHsAZoMCZQesV-DOijo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776263851617-6tjodesnnkmlepvsasado39uh8o0mi88.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "776263851617-fjd65qqfq5890477s6vir5ufdp5tq965.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
